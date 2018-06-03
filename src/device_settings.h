@@ -1,4 +1,4 @@
-#define DEVICE_MANUFACTURER "Duvenhorst"
+#define DEVICE_MANUFACTURER "itead"
 #define DEVICE_NAME "Sonoff"
 #define DEVICE_MODEL "S20"
 #define DEVICE_SERIAL "12345678"
